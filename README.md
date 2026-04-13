@@ -1,6 +1,6 @@
 
 
-# 🏥 Healthcare SQL Data Analysis
+# 🏥 Healthcare Database Managemnet System
 
 ## 📌 Project Overview
 
